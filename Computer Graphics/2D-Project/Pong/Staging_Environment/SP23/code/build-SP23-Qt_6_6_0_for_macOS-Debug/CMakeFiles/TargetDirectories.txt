@@ -1,0 +1,9 @@
+/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/CMakeFiles/SP23.dir
+/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/CMakeFiles/SP23_autogen_timestamp_deps.dir
+/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/CMakeFiles/SP23_autogen.dir

@@ -1,0 +1,16 @@
+# ninja log v5
+1	3363	1699040999722544714	SP23_autogen/timestamp	a8de78444ba4cb55
+1	3363	1699040999722544714	SP23_autogen/mocs_compilation.cpp	a8de78444ba4cb55
+1	3363	1699040999722544714	/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/SP23_autogen/timestamp	a8de78444ba4cb55
+1	3363	1699040999722544714	/Users/andronescucosminconstantin/Desktop/THU/WS24/SoftwareProject/git/softwareproject/code/Staging_Environment/SP23/code/build-SP23-Qt_6_6_0_for_macOS-Debug/SP23_autogen/mocs_compilation.cpp	a8de78444ba4cb55
+3364	8466	1699041004842502580	CMakeFiles/SP23.dir/main.cpp.o	5457a15d73a00b5c
+3371	8562	1699041004939391190	CMakeFiles/SP23.dir/sprints.cpp.o	fb15be1008b5dfd1
+3367	8566	1699041004943731621	CMakeFiles/SP23.dir/backlog.cpp.o	e1d49f490fe7e849
+3366	8585	1699041004964816732	CMakeFiles/SP23.dir/settings.cpp.o	573437e4f58ad596
+3372	8610	1699041004978648995	CMakeFiles/SP23.dir/confluence.cpp.o	87db6a74f83098da
+3369	8616	1699041004980315838	CMakeFiles/SP23.dir/taskboard.cpp.o	7754a04b49b24bcf
+3369	8618	1699041004998933263	CMakeFiles/SP23.dir/calendar.cpp.o	7c13858e79d0531d
+3363	8653	1699041005030279944	CMakeFiles/SP23.dir/SP23_autogen/mocs_compilation.cpp.o	ca0839030afd5d6c
+3365	8753	1699041005130219955	CMakeFiles/SP23.dir/registration_window.cpp.o	aa002253a9872aa9
+3364	8828	1699041005213300262	CMakeFiles/SP23.dir/mainwindow.cpp.o	65516b9cfc1a4c9a
+8828	9199	1699041005585298205	SP23.app/Contents/MacOS/SP23	2aec62532eefd232
